@@ -1,16 +1,17 @@
-### Hi there 👋
+Road to **Mr. Xamarin Forms**:
 
-<!--
-**shawyunz/shawyunz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:heart: May Xamarin.Forms be the heart
 
-Here are some ideas to get you started:
+:see_no_evil: May Xamarin.Essential be the senses
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:bone: May Shell be the bones
+
+:muscle: May [XampleControl](https://github.com/shawyunz/XampleControl) be the muscle
+
+:performing_arts: May [XampleUI](https://github.com/shawyunz/XampleUI) be the skin
+
+:fork_and_knife: May AwesomeXamarin	be the power
+
+:game_die: May XampleFun be the fun
+
+:family: And join One.Net some day.
