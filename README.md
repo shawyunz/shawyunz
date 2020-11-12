@@ -6,12 +6,12 @@ Road to **Mr. Xamarin Forms**:
 
 :bone: May [XF.Shell](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/shell/) be the bones
 
-:muscle: May [XCT](https://github.com/xamarin/XamarinCommunityToolkit), [TemplateUI](https://github.com/jsuarezruiz/TemplateUI), [XampleControl](https://github.com/shawyunz/XampleControl) be the muscle
+:muscle: May [TemplateUI](https://github.com/jsuarezruiz/TemplateUI), [XampleControl](https://github.com/shawyunz/XampleControl) be the muscle
 
 :performing_arts: May [XampleUI](https://github.com/shawyunz/XampleUI) be the skin
 
-:fork_and_knife: May AwesomeXamarin	be the power
+:ferris_wheel: May AwesomeXamarin, [XCT](https://github.com/xamarin/XamarinCommunityToolkit)	be the wheels
 
-:game_die: May XampleFun be the fun
+:joystick: May XampleFun be the fun
 
 :family: And join One.Net some day.
